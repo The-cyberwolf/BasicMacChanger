@@ -1,2 +1,4 @@
-# BasicMacChanger
-# BasicMacChanger
+BasicMacChanger in Python.
+
+Supports Python3
+
